@@ -8,7 +8,7 @@ namespace DemoProject
 {
     internal class Student
     {
-        private static int _id { get; set; } = 0;
+        private static int _id = 0;
         public int Id { get; }
         public string Name { get; set; }
         public string SurName { get; set; }

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\gunelemu\\Desktop\\DemoProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EE9EB5E-0074-42EF-AF4A-0FDAD34AE928}|ConsoleApp5\\DemoProject.csproj|c:\\users\\gunelemu\\desktop\\demoproject\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EE9EB5E-0074-42EF-AF4A-0FDAD34AE928}|ConsoleApp5\\DemoProject.csproj|solutionrelative:consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1EE9EB5E-0074-42EF-AF4A-0FDAD34AE928}|ConsoleApp5\\DemoProject.csproj|c:\\users\\gunelemu\\desktop\\demoproject\\consoleapp5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EE9EB5E-0074-42EF-AF4A-0FDAD34AE928}|ConsoleApp5\\DemoProject.csproj|solutionrelative:consoleapp5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EE9EB5E-0074-42EF-AF4A-0FDAD34AE928}|ConsoleApp5\\DemoProject.csproj|c:\\users\\gunelemu\\desktop\\demoproject\\consoleapp5\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EE9EB5E-0074-42EF-AF4A-0FDAD34AE928}|ConsoleApp5\\DemoProject.csproj|solutionrelative:consoleapp5\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE9EB5E-0074-42EF-AF4A-0FDAD34AE928}|ConsoleApp5\\DemoProject.csproj|c:\\users\\gunelemu\\desktop\\demoproject\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE9EB5E-0074-42EF-AF4A-0FDAD34AE928}|ConsoleApp5\\DemoProject.csproj|solutionrelative:consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,33 +30,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Group.cs",
               "DocumentMoniker": "C:\\Users\\gunelemu\\Desktop\\DemoProject\\ConsoleApp5\\Group.cs",
               "RelativeDocumentMoniker": "ConsoleApp5\\Group.cs",
               "ToolTip": "C:\\Users\\gunelemu\\Desktop\\DemoProject\\ConsoleApp5\\Group.cs",
               "RelativeToolTip": "ConsoleApp5\\Group.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-02T08:52:56.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\gunelemu\\Desktop\\DemoProject\\ConsoleApp5\\Student.cs",
               "RelativeDocumentMoniker": "ConsoleApp5\\Student.cs",
               "ToolTip": "C:\\Users\\gunelemu\\Desktop\\DemoProject\\ConsoleApp5\\Student.cs",
               "RelativeToolTip": "ConsoleApp5\\Student.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwAoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-02T08:25:52.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gunelemu\\Desktop\\DemoProject\\ConsoleApp5\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp5\\Program.cs",

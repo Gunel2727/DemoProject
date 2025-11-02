@@ -9,7 +9,7 @@ namespace DemoProject
 {
     internal class Group
     {
-        private static int _no { get; set; } = 100;
+        private static int _no  = 100;
         public string No { get; }
         private Student[] _students = new Student[0];
         public Group()
