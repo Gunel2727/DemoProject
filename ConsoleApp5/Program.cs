@@ -25,6 +25,7 @@ namespace ConsoleApp5
                 student.ShowInfo();
             }
             Group group2= new Group();
+            Console.WriteLine(group.No);
             Console.WriteLine(group2.No);
             
         }
